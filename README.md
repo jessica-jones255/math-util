@@ -5,6 +5,6 @@
 * ...
 
 ### Screenshots
-![DDT&TDD with JUnit](https://github.com/jessica-jones255/math-util-2/blob/master/images/DDT%20with%20JUnit.png)
+![DDT&TDD with JUnit](https://github.com/jessica-jones255/math-util/blob/main/images/DDT%20with%20JUnit.png)
 
 #### © 2024 jessica.jones
